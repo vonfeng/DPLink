@@ -1,9 +1,5 @@
-# trajlinking
-a simple branch of trajsimilar
-
-## Readme For Public Repository
-
 # DPLink
+
 PyTorch implementation  for **DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data.** *Jie Feng, Mingyang Zhang, Huandong Wang, Zeyu Yang, Chao Zhang, Yong Li, Depeng Jin. WWW 2019.* If you find our code is useful for your research, you can cite our paper by:
 ```latex
 @article{jie2019dplink,

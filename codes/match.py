@@ -222,11 +222,10 @@ def run_siamese(SN, args, data_input, LR, train_mode='cross',
 def run_experiments(args, run_id=0, device=None, USE_POI=False, model_type='S', unit=None):
     IS_NEG = (args.intersect == 1)
 
-    vid_list, _, _ = load_vids(args.data_path)
-    vid_size = len(vid_list)
-
     if args.data_name in ["weibo"]:
         dense_name = 'isp'
+        vid_list, _, _ = load_vids(args.data_path)
+        vid_size = len(vid_list)
         sample_users = samples_generator(args.data_path, args.data_name, threshold=args.threshold)
         data_dense = load_data_match_telecom(args.data_path, 'isp', sample_users=sample_users,
                                              poi_type=args.poi_type)

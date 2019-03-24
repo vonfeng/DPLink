@@ -17,7 +17,7 @@ There are two datasets in our paper: ISP and Foursquare. ISP data cannot be publ
 - **Python 2.7**
 - **PyTorch 0.4**
 - tqdm 4.22
-- mlflow 0.7
+- mlflow 0.5
 - numpy 1.14.0
 - setproctitle 1.1.10
 - scikit-learn 0.19.1

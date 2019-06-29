@@ -2,11 +2,13 @@
 
 PyTorch implementation  for **DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data.** *Jie Feng, Mingyang Zhang, Huandong Wang, Zeyu Yang, Chao Zhang, Yong Li, Depeng Jin. WWW 2019.* If you find our code is useful for your research, you can cite our paper by:
 ```latex
-@article{jie2019dplink,
-title={DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data},
-author={Feng, Jie and Zhang, Mingyang and Wang, Huandong and Yang, Zeyu and Zhang, Chao and Li, Yong and Jin, Depeng},
-booktitle={Proceedings of the 2019 World Wide Web Conference},
-year={2019}
+@inproceedings{feng2019dplink,
+  title={DPLink: User Identity Linkage via Deep Neural Network From Heterogeneous Mobility Data},
+  author={Feng, Jie and Zhang, Mingyang and Wang, Huandong and Yang, Zeyu and Zhang, Chao and Li, Yong and Jin, Depeng},
+  booktitle={The World Wide Web Conference},
+  pages={459--469},
+  year={2019},
+  organization={ACM}
 }
 ```
 

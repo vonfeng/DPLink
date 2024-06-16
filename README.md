@@ -12,9 +12,9 @@ PyTorch implementation  for **DPLink: User Identity Linkage via Deep Neural Netw
 }
 ```
 
-# Datasets (updated 2019.10.31)
+# Datasets (updated 2024.06.16)
 - **ISP-Weibo Data** (main data used in the paper)
-	- This is the private data collected and processed by ourselves and partners. We cannot directly published it due to the privacy issue. *If you are interested in it and want to use it in your paper for academic purpose, you can contact with us via the email in this [page](http://fi.ee.tsinghua.edu.cn/~liyong/) with your identity information.*
+	- ~~This is the private data collected and processed by ourselves and partners. We cannot directly published it due to the privacy issue. *If you are interested in it and want to use it in your paper for academic purpose, you can contact with us via the email in this [page](http://fi.ee.tsinghua.edu.cn/~liyong/) with your identity information.*~~ We have uploaded the data in [data](./data/), please follow the README.md to process the data. This data is intended for academic use only. Redistribution of this data is not permitted without our explicit permission.
 - **Foursquare-Twitter Data**
 	- This data is  from *Transferring heterogeneous links across location-based social networks.  Jiawei Zhang, Xiangnan Kong, and Philip S. Yu. WSDM 2014.* We have no right to directly publish it. If you are interested in this dataset, you can contact with the original author to access the dataset.
 

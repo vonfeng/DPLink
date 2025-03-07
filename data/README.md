@@ -4,7 +4,7 @@ This data(Weibo-ISP) is used in our paper `DPLink: User Identity Linkage via Dee
 We have collected and processed this data in collaboration with our partners, and it is intended for academic use only. Redistribution of this data is not permitted without our explicit permission.
 
 # Data
-The data contains four parts as follows
+The ISP dataset contains 325215 mobility records that cover the metropolitan area of Shanghai from April 19 to April 26 in 2016. The data contains four parts as follows
 - isp           # dense trajectory, you should first extract the isp.zip file before processing
 - weibo         # sparses trajectory
 - baseLoc       # location info

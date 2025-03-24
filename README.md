@@ -14,9 +14,9 @@ PyTorch implementation  for **DPLink: User Identity Linkage via Deep Neural Netw
 
 # Datasets (updated 2024.06.16)
 - **ISP-Weibo Data** (main data used in the paper, from Shanghai)
-	- ~~This is the private data collected and processed by ourselves and partners. We cannot directly published it due to the privacy issue. *If you are interested in it and want to use it in your paper for academic purpose, you can contact with us via the email in this [page](http://fi.ee.tsinghua.edu.cn/~liyong/) with your identity information.*~~ We have uploaded the data in [data](./data/), please follow the README.md to process the data. This data is intended for academic use only. Redistribution of this data is not permitted without our explicit permission.
+	- ~~This is the private data collected and processed by ourselves and partners. We cannot directly published it due to the privacy issue. *If you are interested in it and want to use it in your paper for academic purpose, you can contact with us via the email in this [page](http://fi.ee.tsinghua.edu.cn/~liyong/) with your identity information.*~~ We have uploaded the data in [data](./data/), please follow the [README](./data/README.md) to process the data. This data is intended for academic use only. Redistribution of this data is not permitted without our explicit permission.
 - **Foursquare-Twitter Data**
-	- This data is  from *Transferring heterogeneous links across location-based social networks.  Jiawei Zhang, Xiangnan Kong, and Philip S. Yu. WSDM 2014.* We have no right to directly publish it. If you are interested in this dataset, you can contact with the original author to access the dataset.
+	- This dataset is derived from the paper *Transferring Heterogeneous Links Across Location-Based Social Networks* by Jiawei Zhang, Xiangnan Kong, and Philip S. Yu, WSDM 2014. If you wish to access it, we recommend reaching out to the original authors to request permission. Alternatively, you can explore a related data source available here: [https://github.com/whd14/SIMP/tree/master/Datasets/Twitter-Foursquare](https://github.com/whd14/SIMP/tree/master/Datasets/Twitter-Foursquare), which contains a portion of the dataset.
 
 # Requirements
 - **Python 2.7**
